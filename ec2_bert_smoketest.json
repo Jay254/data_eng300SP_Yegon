@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-25T16:42:33",
+  "hostname": "00881a675f9f",
+  "instance_id": "i-074ca7fcff233cfeb",
+  "instance_type": "t2.medium",
+  "availability_zone": "us-east-1c",
+  "python": "3.11.6",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.6.2",
+  "cuda_available": false
+}
